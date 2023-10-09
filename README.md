@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marwan779
-- 👀 I’m interested in embedded systems in software engineering
+- 👀 I’m interested in embedded systems 
 - 🌱 I’m currently learning c language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
