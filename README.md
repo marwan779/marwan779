@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @marwan779<br>- 💻 I'm a computer engineering student<br>- 👀 I’m interested in Backend Development <br>- 🌱 I’m currently learning .NET Core MVC
+- 👋 Hi, I’m @marwan779<br>- 💻 I'm a computer engineering student<br>- 👀 I’m interested in Backend Development <br>- 🌱 I’m currently learning .NET Core Web Api
 
 
 ## 🌐 Socials:
