@@ -89,13 +89,12 @@ I enjoy building **scalable backend systems** and **clean, well-structured APIs*
 
 ## 📊 GitHub Stats & Trophies
 
-## 📊 GitHub Stats & Trophies
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwan779&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwanmohamed3337&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&token=YOUR_GITHUB_TOKEN)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwan779&layout=compact&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanmohamed3337&layout=compact&theme=tokyonight&hide_border=true&token=YOUR_GITHUB_TOKEN)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=marwan779&theme=onedark&no-frame=true&row=1)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=marwanmohamed3337&theme=onedark&no-frame=true&row=1)
 
 
 ---
