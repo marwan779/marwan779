@@ -90,48 +90,48 @@ I enjoy building **scalable backend systems** and **clean, well-structured APIs*
 
 ## 📫 Connect With Me
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td>
+    <td style="border: none; padding-right: 8px;">
       <a href="https://linkedin.com/in/marwanmohamed3337" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>
       </a>
     </td>
-    <td>
+    <td style="border: none;">
       <a href="https://linkedin.com/in/marwanmohamed3337" target="_blank">
         linkedin.com/in/marwanmohamed3337
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="border: none; padding-right: 8px;">
       <a href="https://www.hackerrank.com/ppgming" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="30"/>
       </a>
     </td>
-    <td>
+    <td style="border: none;">
       <a href="https://www.hackerrank.com/profile/ppgming" target="_blank">
         hackerrank.com/profile/ppgming
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="border: none; padding-right: 8px;">
       <a href="https://www.leetcode.com/marwan__909" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30"/>
       </a>
     </td>
-    <td>
+    <td style="border: none;">
       <a href="https://leetcode.com/u/marwan__909/" target="_blank">
         leetcode.com/u/marwan__909
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="border: none; padding-right: 8px;">
       <img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="Email" height="30" width="30"/>
     </td>
-    <td>
+    <td style="border: none;">
       <a href="mailto:marwanmohamed3337@gmail.com">marwanmohamed3337@gmail.com</a>
     </td>
   </tr>
