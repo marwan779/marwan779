@@ -87,18 +87,6 @@ I enjoy building **scalable backend systems** and **clean, well-structured APIs*
 
 ---
 
-## 📊 GitHub Stats & Trophies
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwan779&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwan779&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=marwan779&theme=onedark&no-frame=true&row=1)
-
-
-
----
-
 ## 📫 Connect With Me
 
 * 📧 Email: **[marwanmohamed3337@gmail.com](mailto:marwanmohamed3337@gmail.com)**
