@@ -108,7 +108,7 @@ I enjoy building **scalable backend systems** and **clean, well-structured APIs*
 
 ## 📄 Resume
 
-📌 **[CV Link — Coming Soon]**
+📌 **https://drive.google.com/file/d/1VC4uT1EDxvAVMKnSMM2IjzMhQG3el_Bd/view**
 
 ---
 
