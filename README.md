@@ -6,6 +6,13 @@
 
 I enjoy building **scalable backend systems** and **clean, well-structured APIs**. I'm currently deepening my expertise in **ASP.NET Core** and **system design**, with a strong focus on writing **maintainable, extensible, and production-ready software**.
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=marwan779&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=marwan779&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marwan779&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 ---
 
 ## 👨‍💻 About Me
