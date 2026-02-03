@@ -6,8 +6,10 @@
 
 I enjoy building **scalable backend systems** and **clean, well-structured APIs**. I'm currently deepening my expertise in **ASP.NET Core** and **system design**, with a strong focus on writing **maintainable, extensible, and production-ready software**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwan779&" alt="marwan779" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwan779&show_icons=true&locale=en" alt="marwan779" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwan779&" alt="marwan779" /></p>
 ---
 
 ## 👨‍💻 About Me
