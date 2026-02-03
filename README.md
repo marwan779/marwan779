@@ -95,6 +95,12 @@ I enjoy building **scalable backend systems** and **clean, well-structured APIs*
 * 🧠 LeetCode: [leetcode.com/u/marwan__909](https://leetcode.com/u/marwan__909/)
 * 🏆 HackerRank: [hackerrank.com/profile/ppgming](https://www.hackerrank.com/profile/ppgming)
 
+<p align="left">
+<a href="https://linkedin.com/in/marwanmohamed3337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwanmohamed3337" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ppgming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ppgming" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/marwan__909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marwan__909" height="30" width="40" /></a>
+</p>
+
 ---
 
 ## 📄 Resume
