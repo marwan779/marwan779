@@ -142,7 +142,7 @@ I enjoy building **scalable backend systems** and **clean, well-structured APIs*
 
 ## 📄 Resume
 
-📌 **https://drive.google.com/file/d/1VC4uT1EDxvAVMKnSMM2IjzMhQG3el_Bd/view**
+📌 **https://drive.google.com/drive/u/1/folders/1euTIacrQUZcnZEyDyWpyBPXJPiXdhkH7**
 
 ---
 
