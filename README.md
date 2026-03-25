@@ -21,10 +21,10 @@ I enjoy building **scalable backend systems** and **clean, well-structured APIs*
 
 ### 💻 Languages & Frameworks
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🧠 Software Engineering Concepts
 
@@ -35,15 +35,15 @@ I enjoy building **scalable backend systems** and **clean, well-structured APIs*
 
 ### 🌐 Web Development
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🗄️ Database & ORM
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🏗️ Architecture & Patterns
 
@@ -54,8 +54,21 @@ I enjoy building **scalable backend systems** and **clean, well-structured APIs*
 
 ### 🔧 Tools & Version Control
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marwanmohamed3337&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=marwanmohamed3337&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanmohamed3337&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -90,63 +103,16 @@ I enjoy building **scalable backend systems** and **clean, well-structured APIs*
 
 ## 📫 Connect With Me
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none; padding-right: 8px;">
-      <a href="https://linkedin.com/in/marwanmohamed3337" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>
-      </a>
-    </td>
-    <td style="border: none;">
-      <a href="https://linkedin.com/in/marwanmohamed3337" target="_blank">
-        linkedin.com/in/marwanmohamed3337
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding-right: 8px;">
-      <a href="https://www.hackerrank.com/ppgming" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="30"/>
-      </a>
-    </td>
-    <td style="border: none;">
-      <a href="https://www.hackerrank.com/profile/ppgming" target="_blank">
-        hackerrank.com/profile/ppgming
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding-right: 8px;">
-      <a href="https://www.leetcode.com/marwan__909" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30"/>
-      </a>
-    </td>
-    <td style="border: none;">
-      <a href="https://leetcode.com/u/marwan__909/" target="_blank">
-        leetcode.com/u/marwan__909
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding-right: 8px;">
-      <img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="Email" height="30" width="30"/>
-    </td>
-    <td style="border: none;">
-      <a href="mailto:marwanmohamed3337@gmail.com">marwanmohamed3337@gmail.com</a>
-    </td>
-  </tr>
-</table>
-
+[LinkedIn](https://linkedin.com/in/marwanmohamed3337)  
+[HackerRank](https://www.hackerrank.com/profile/ppgming)  
+[LeetCode](https://leetcode.com/u/marwan__909/)  
+📧 marwanmohamed3337@gmail.com
 
 ---
 
 ## 📄 Resume
 
-📌 **https://drive.google.com/drive/u/1/folders/1euTIacrQUZcnZEyDyWpyBPXJPiXdhkH7**
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=marwanmohamed3337\&style=for-the-badge\&color=blueviolet)
+📌 https://drive.google.com/drive/u/1/folders/1euTIacrQUZcnZEyDyWpyBPXJPiXdhkH7
 
 ---
 
