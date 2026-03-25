@@ -101,19 +101,4 @@ I enjoy building **scalable backend systems** and **clean, well-structured APIs*
 
 ---
 
-## 📫 Connect With Me
-
-[LinkedIn](https://linkedin.com/in/marwanmohamed3337)  
-[HackerRank](https://www.hackerrank.com/profile/ppgming)  
-[LeetCode](https://leetcode.com/u/marwan__909/)  
-📧 marwanmohamed3337@gmail.com
-
----
-
-## 📄 Resume
-
-📌 https://drive.google.com/drive/u/1/folders/1euTIacrQUZcnZEyDyWpyBPXJPiXdhkH7
-
----
-
-⭐ *Feel free to explore my repositories and reach out — I'm always open to learning, collaboration, and new challenges!*
+## 📫 Connect With Me <table style="border-collapse: collapse; border: none;"> <tr> <td style="border: none; padding-right: 8px;"> <a href="https://linkedin.com/in/marwanmohamed3337" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/> </a> </td> <td style="border: none;"> <a href="https://linkedin.com/in/marwanmohamed3337" target="_blank"> linkedin.com/in/marwanmohamed3337 </a> </td> </tr> <tr> <td style="border: none; padding-right: 8px;"> <a href="https://www.hackerrank.com/ppgming" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="30"/> </a> </td> <td style="border: none;"> <a href="https://www.hackerrank.com/profile/ppgming" target="_blank"> hackerrank.com/profile/ppgming </a> </td> </tr> <tr> <td style="border: none; padding-right: 8px;"> <a href="https://www.leetcode.com/marwan__909" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30"/> </a> </td> <td style="border: none;"> <a href="https://leetcode.com/u/marwan__909/" target="_blank"> leetcode.com/u/marwan__909 </a> </td> </tr> <tr> <td style="border: none; padding-right: 8px;"> <img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="Email" height="30" width="30"/> </td> <td style="border: none;"> <a href="mailto:marwanmohamed3337@gmail.com">marwanmohamed3337@gmail.com</a> </td> </tr> </table> --- ## 📄 Resume 📌 **https://drive.google.com/drive/u/1/folders/1euTIacrQUZcnZEyDyWpyBPXJPiXdhkH7** --- ![Profile Views](https://komarev.com/ghpvc/?username=marwanmohamed3337\&style=for-the-badge\&color=blueviolet) --- ⭐ *Feel free to explore my repositories and reach out — I'm always open to learning, collaboration, and new challenges!*
