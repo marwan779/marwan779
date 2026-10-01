@@ -153,3 +153,44 @@ flowchart LR
 
     style DOM fill:#512BD4,color:#fff,stroke:#512BD4
     style API fill:#255E63,color:#fff,stroke:#255E63
+
+```
+
+**Decoupled ingestion pipeline** (my approach in Python, target architecture of a project in progress):
+
+```mermaid
+flowchart LR
+    SRC([Web Sources]) --> SCR[Scraper Service<br/>Pure ingestion]
+    SCR --> JSON[/Raw JSON artifacts/]
+    JSON --> CAT[Catalog Service<br/>FastAPI]
+    CAT --> RAW[(Raw records<br/>JSONB audit log)]
+    RAW --> ER[Entity Resolution]
+    ER --> CANON[(Canonical catalog<br/>PostgreSQL)]
+    CANON --> REC[Recommendation API]
+
+    style SCR fill:#255E63,color:#fff,stroke:#255E63
+    style CAT fill:#512BD4,color:#fff,stroke:#512BD4
+
+```
+
+> Different stacks, same principles: clear boundaries, single responsibilities, and business rules that don't depend on frameworks or delivery mechanisms.
+
+---
+
+## 🚧 Currently Building & Exploring
+
+**Also leveling up on:**
+
+* 🧬 **Microservices**: service boundaries, communication patterns, and resilience
+* 📈 **System Design**: building for high traffic, scalability, and fault tolerance
+* 🧮 **Problem Solving**: consistent practice on LeetCode and HackerRank
+
+---
+
+## 📊 GitHub Analytics
+
+---
+
+### 🤝 Let's Connect & Code!
+
+⭐ Feel free to explore my repositories and reach out. I'm always open to learning, collaboration, and new challenges!
