@@ -194,7 +194,7 @@ flowchart LR
     </td>
     <td width="50%" valign="top">
       <h4>🍔 <a href="https://github.com/marwan779/QuickBite">QuickBite</a></h4>
-      <i>🚧 In progress · Microservices</i>
+      <i>🚧 In progress · TypeScript . Nodejs . PostgreSQL</i>
       <br><br>
       A microservices-based backend currently in development, built to practice service boundaries, inter-service communication, and system design.
       <br><br>
