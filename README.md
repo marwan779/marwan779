@@ -9,7 +9,7 @@
 
 <br><br>
 
-<a href="[https://drive.google.com/drive/u/1/folders/1euTIacrQUZcnZEyDyWpyBPXJPiXdhkH7](https://drive.google.com/file/d/11NgC3nP7c2vOrbxZbHHr5mxC_51KQ2Uj/view?usp=drive_link)" target="_blank">
+<a href="https://drive.google.com/file/d/11NgC3nP7c2vOrbxZbHHr5mxC_51KQ2Uj/view" target="_blank">
   <img src="https://img.shields.io/badge/📄_Resume-255E63?style=for-the-badge" alt="Resume">
 </a>
 <a href="mailto:marwanmohamed3337@gmail.com">
