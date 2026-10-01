@@ -71,6 +71,17 @@ I'm a **Software Engineer** who designs and builds backend systems: APIs, real-t
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-255E63?style=for-the-badge)
 
+**Node.js**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-255E63?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-255E63?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-255E63?style=for-the-badge)
+![Caching](https://img.shields.io/badge/Caching-D14836?style=for-the-badge)
+
 **Architecture & Concepts**
 
 ![REST APIs](https://img.shields.io/badge/REST_APIs-255E63?style=for-the-badge)
