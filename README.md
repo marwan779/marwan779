@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:255E63&height=200&section=header&text=Marwan%20Mohamed&fontSize=50&fontColor=ffffff&desc=Software%20Engineer&descSize=22&descAlignY=75" alt="Marwan Mohamed - Software Engineer" />
 
 <a href="https://github.com/marwan779">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=512BD4&center=true&vCenter=true&width=700&lines=Software+Engineer+building+scalable+backend+systems;C%23+%2B+Python+%2B+Node.js;Clean+Architecture+and+System+Design;Open+to+Software+Engineering+Internships" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=512BD4&center=true&vCenter=true&width=700&lines=Software+Engineer+building+scalable+backend+systems;C%23+%2B+Python+%2B+Java;Clean+Architecture+and+System+Design;Open+to+Software+Engineering+Internships" alt="Typing animation" />
 </a>
 
 <br><br>
@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** who designs and builds backend systems: APIs, real-time services, and data pipelines. **.NET** is my home base, but I pick tools by the problem, not the other way around, so my work spans **ASP.NET Core** APIs, **FastAPI** services, and **Node.js** event-driven architectures.
+I'm a **Software Engineer** who designs and builds backend systems: APIs, real-time services, and data pipelines. **.NET** is my home base, but I pick tools by the problem, not the other way around, so my work spans **ASP.NET Core** APIs, **FastAPI** services, and Python-based ingestion pipelines.
 
 | | |
 |---|---|
@@ -48,8 +48,8 @@ I'm a **Software Engineer** who designs and builds backend systems: APIs, real-t
 ### ⚙️ Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<!-- TODO: add QuickBite's language badge(s) here -->
 
 ### 🧩 Frameworks & Technologies
 
@@ -71,24 +71,18 @@ I'm a **Software Engineer** who designs and builds backend systems: APIs, real-t
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-255E63?style=for-the-badge)
 
-**Node.js Ecosystem**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
 **Architecture & Concepts**
 
 ![REST APIs](https://img.shields.io/badge/REST_APIs-255E63?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-255E63?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-255E63?style=for-the-badge)
 ![Caching](https://img.shields.io/badge/Caching-D14836?style=for-the-badge)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+<!-- TODO: add QuickBite's frameworks / message broker badges here -->
 
-### 🗄️ Databases & Storage
+### 🗄️ Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ☁️ Tools & Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -114,7 +108,7 @@ I'm a **Software Engineer** who designs and builds backend systems: APIs, real-t
       JWT, ASP.NET Identity, and OAuth-based sign-in flows with token handling built for real-world use.
       <br><br>
       <h4>⚡ Real-Time Communication</h4>
-      Pushing live updates to clients with <b>SignalR</b> and WebSockets for responsive, event-driven experiences.
+      Pushing live updates to clients with <b>SignalR</b> for responsive, event-driven experiences.
       <br><br>
       <h4>🧱 Maintainable Architecture</h4>
       Clean Architecture, SOLID, and proven design patterns to keep codebases testable and easy to evolve.
@@ -127,7 +121,7 @@ I'm a **Software Engineer** who designs and builds backend systems: APIs, real-t
       RESTful endpoints that are consistent, well-structured, and documented with <b>Swagger</b> and tested with <b>Postman</b>.
       <br><br>
       <h4>⏱️ Background Jobs & Performance</h4>
-      Scheduled and async work using <b>Hangfire</b> and <b>RabbitMQ</b>, plus caching strategies with <b>Redis</b> to cut response times.
+      Scheduled and async work with <b>Hangfire</b>, plus caching strategies to cut response times.
       <br><br>
       <h4>🐳 Deployment & Storage</h4>
       Containerized with <b>Docker</b>, served behind <b>Nginx</b>, and file storage on <b>AWS S3</b>.
@@ -153,7 +147,6 @@ flowchart LR
 
     style DOM fill:#512BD4,color:#fff,stroke:#512BD4
     style API fill:#255E63,color:#fff,stroke:#255E63
-
 ```
 
 **Decoupled ingestion pipeline** (my approach in Python, target architecture of a project in progress):
@@ -170,7 +163,6 @@ flowchart LR
 
     style SCR fill:#255E63,color:#fff,stroke:#255E63
     style CAT fill:#512BD4,color:#fff,stroke:#512BD4
-
 ```
 
 > Different stacks, same principles: clear boundaries, single responsibilities, and business rules that don't depend on frameworks or delivery mechanisms.
@@ -179,18 +171,56 @@ flowchart LR
 
 ## 🚧 Currently Building & Exploring
 
-**Also leveling up on:**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 <a href="https://github.com/marwan779/laptop-recommender">Laptop Recommender</a></h4>
+      <i>🚧 In progress · Python · FastAPI · PostgreSQL</i>
+      <br><br>
+      A microservices-based system that collects laptop data from official brand portals and Egyptian retailers, consolidates it into a canonical catalog, and is being built toward smart laptop recommendations for the Egyptian market.
+      <br><br>
+      <b>Engineering focus:</b> decoupled services, incremental crawling with a watermark cursor, and an auditable data model.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🍔 <a href="https://github.com/marwan779/QuickBite">QuickBite</a></h4>
+      <i>🚧 In progress · Microservices</i>
+      <br><br>
+      A microservices-based backend currently in development, built to practice service boundaries, inter-service communication, and system design.
+      <br><br>
+      <b>Engineering focus:</b> microservice decomposition and clean service contracts.
+      <!-- TODO: add QuickBite's tech stack to the line under the title -->
+    </td>
+  </tr>
+</table>
 
-* 🧬 **Microservices**: service boundaries, communication patterns, and resilience
-* 📈 **System Design**: building for high traffic, scalability, and fault tolerance
-* 🧮 **Problem Solving**: consistent practice on LeetCode and HackerRank
+**Also leveling up on:**
+- 🧬 **Microservices**: service boundaries, communication patterns, and resilience
+- 📈 **System Design**: building for high traffic, scalability, and fault tolerance
+- 🧮 **Problem Solving**: consistent practice on LeetCode and HackerRank
 
 ---
 
 ## 📊 GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marwan779&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=marwan779&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwan779&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
 ---
+
+<div align="center">
 
 ### 🤝 Let's Connect & Code!
 
-⭐ Feel free to explore my repositories and reach out. I'm always open to learning, collaboration, and new challenges!
+<i>⭐ Feel free to explore my repositories and reach out. I'm always open to learning, collaboration, and new challenges!</i>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=marwanmohamed3337&style=flat-square&color=512BD4&label=Profile+Views" alt="Profile Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:255E63,100:512BD4&height=100&section=footer" alt="Footer" />
+
+</div>
